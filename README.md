@@ -10,12 +10,12 @@ I'm a dedicated SQA professional from Bangladesh with expertise in manual testin
 - Enhancing test coverage and reliability across projects
 
 ### 💼 Professional Experience
-- **QA Engineer** at BdCalling IT Ltd. (Current)
+- **Junior Backend Engineer** at BdCalling IT Ltd. (April 2025-February 2026)
   - Developing automated test suites for REST APIs
   - Performing regression testing and bug tracking
   
-- **Associate Software Engineer (QA)** at Fort Media (April 2023 - March 2024)
-  - Conducted functional and integration testing for First Class Flight For Less
+- **Associate Software Engineer** at Fort Media (April 2023 - March 2024)
+  - Developed and Conducted functional and integration testing for First Class Flight For Less
   - Designed test cases and performed API testing
   
 - **IT Executive** at Daily Khaborer Kagoj (November 2023 - April 2024)
