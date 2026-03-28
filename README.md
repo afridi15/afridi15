@@ -97,6 +97,6 @@ CGPA: 3.05 out of 4
 - 📍 Location: Barishal, Bangladesh
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asm-afridi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afridi15&theme=tokyonight&hide_border=true)
 ---
-⭐️ From [asm-afridi](https://github.com/afridi15)
+⭐️ From [afridi15](https://github.com/afridi15)
