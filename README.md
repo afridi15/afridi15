@@ -99,4 +99,4 @@ CGPA: 3.05 out of 4
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asm-afridi&theme=tokyonight&hide_border=true)
 ---
-⭐️ From [asm-afridi](https://github.com/asm-afridi)
+⭐️ From [asm-afridi](https://github.com/afridi15)
